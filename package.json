@@ -1,0 +1,28 @@
+{
+  "name": "ac-currency-converter",
+  "version": "1.0.0",
+  "description": "This npm package will convert on currency to another based on the most current exchange rate.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash-a-18/ac-currency-converter.git"
+  },
+  "keywords": [
+    "npm",
+    "currency",
+    "converter"
+  ],
+  "author": "Yash Amethiya",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yash-a-18/ac-currency-converter/issues"
+  },
+  "homepage": "https://github.com/yash-a-18/ac-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
